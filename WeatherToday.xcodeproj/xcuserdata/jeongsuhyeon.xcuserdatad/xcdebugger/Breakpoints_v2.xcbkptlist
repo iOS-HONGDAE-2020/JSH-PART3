@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "547B6A4F-43A3-4DE4-AB78-353D0FA984C7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B51C88B8-B637-468A-9CBE-ECD52AB48A3D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherToday/ConturyTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ConturyTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B51C88B8-B637-468A-9CBE-ECD52AB48A3D - c3238c65911c6380"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherToday.ConturyTableViewController.countryList.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "WeatherToday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeongsuhyeon/Desktop/study/02%20study_tue/week3/WeatherToday/WeatherToday/ConturyTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "B51C88B8-B637-468A-9CBE-ECD52AB48A3D - b1b2c134b55eef94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherToday.ConturyTableViewController.countryList.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "WeatherToday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeongsuhyeon/Desktop/study/02%20study_tue/week3/WeatherToday/WeatherToday/ConturyTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "B51C88B8-B637-468A-9CBE-ECD52AB48A3D - 7f439674c037ce83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherToday.ConturyTableViewController.countryList.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "WeatherToday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeongsuhyeon/Desktop/study/02%20study_tue/week3/WeatherToday/WeatherToday/ConturyTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "B51C88B8-B637-468A-9CBE-ECD52AB48A3D - 9becb01116e750df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherToday.ConturyTableViewController.countryList.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "WeatherToday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeongsuhyeon/Desktop/study/02%20study_tue/week3/WeatherToday/WeatherToday/ConturyTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "B51C88B8-B637-468A-9CBE-ECD52AB48A3D - b68d01f6600f9e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherToday.ConturyTableViewController.init(style: __C.UITableViewStyle) -&gt; WeatherToday.ConturyTableViewController"
+                  moduleName = "WeatherToday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeongsuhyeon/Desktop/study/02%20study_tue/week3/WeatherToday/WeatherToday/ConturyTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  uuid = "B51C88B8-B637-468A-9CBE-ECD52AB48A3D - dedce3ab0d301c3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherToday.ConturyTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; WeatherToday.ConturyTableViewController"
+                  moduleName = "WeatherToday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeongsuhyeon/Desktop/study/02%20study_tue/week3/WeatherToday/WeatherToday/ConturyTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "254">
+               </Location>
+               <Location
+                  uuid = "B51C88B8-B637-468A-9CBE-ECD52AB48A3D - 338e45b665a29acc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherToday.ConturyTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;WeatherToday.ConturyTableViewController&gt;"
+                  moduleName = "WeatherToday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeongsuhyeon/Desktop/study/02%20study_tue/week3/WeatherToday/WeatherToday/ConturyTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "171">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
